@@ -33,7 +33,11 @@
 
 *   **[Obsidian](https://obsidian.md/)** / Markdown repo – prompts, runbooks, postmortems  
 *   **Reusable prompt patterns** (SRE review, threat modeling, RCA)  
-    
+
+### AI Observability & Cost Control
+
+*   **ccusage.com** – track token usage, cost, model consumption across LLM providers  
+*   (optional future additions: Langfuse, Helicone, OpenLLMetry)    
 
 🧑‍💻 Core Engineering Tools
 ----------------------------
